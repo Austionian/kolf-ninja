@@ -1,0 +1,46 @@
+body {
+  background-color: #0e8ab0;
+}
+
+.title {
+  font-family: 'VT323', monospace;
+  align-items:center;
+  max-width: 17em;
+  margin-top: 1em;
+  font-size: 3em;
+  color: #02ffbb;
+  display:flex;
+  width: 100%;
+}
+
+.kolfer {
+  max-width: 100%;
+}
+
+.pitch {
+  font-family: 'Inconsolata', monospace;
+  font-size: 1.5em;
+  max-width: 28em;
+  color: #02ffbb;
+  width: 100%;
+}
+
+h3 {
+  margin: 0;
+}
+
+.input {
+  max-width: 22em;
+  margin-top: 2em;
+}
+
+input {
+  max-width: 20em;
+  padding: 1em;
+  width: 60%;
+}
+
+.mx-auto {
+  margin-right: auto;
+  margin-left: auto;
+}
